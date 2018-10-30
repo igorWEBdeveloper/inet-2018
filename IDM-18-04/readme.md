@@ -63,3 +63,7 @@ https://github.com/stankin/inet-2018/invitations
 
 Шуленина	Анастасия	Владимировна
 
+
+| Студент | Роль | Команда | Страница | Проект | Модуль 1 | Модуль 2 |
+| :---:   | :-:  |   :-:   |   :-:    |  :-:   |    :-:   |   :-:    |
+| Хомяков	Игорь	Сергеевич | -  | PLAN B | [Страница](https://github.com/igorWEBdeveloper/) | [Проект](https://igorwebdeveloper.github.io/igorkh.github.io/project_2018/) | - | - |
